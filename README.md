@@ -41,7 +41,7 @@ hdfs dfs -put total.txt /tmp/total.txt
 
 But if you don't have HDFS at hand, you can put the file on a shared disk, S3 storage or some place else accessible to Spark.
 
-If you open the Scala Spark shell, you can train the model with this small Scala snippet (Python example would be very similar):
+If you open the Spark Scala shell, you can train the model with this small Scala snippet (Python example would be very similar):
 
 
 ```scala

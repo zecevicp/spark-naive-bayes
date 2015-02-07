@@ -71,7 +71,7 @@ We can now try out our model on some fresh new images. Open up Windows Paint pro
 Let us see what we will get for this piece of art:
 ![Test image with a handwritten 2](./images/testone1.bmp "Test image")
 
-First, we need to convert the image into our feature vector. For this you can use _convert_image_ program. For example image above you would invoke it like this (while positioned in the [python](./python) directory):
+First, we need to convert the image into our feature vector. For this you can use _convert_image_ program. For the example image above you would invoke it like this (while positioned in the [python](./python) directory):
 
 ```python
 convert.convert_image('../images', 'testone1')

@@ -118,4 +118,4 @@ As you can see, our model gives the wrong result only for zero, six and nine. Th
 
 Of course, the example can be expanded to small case and big case letters or something similar. Naive Bayes is usually good at classifying documents, which is similar to our example.
 
-As people say in Croatia - short but sweet.
+And that's all folks!
